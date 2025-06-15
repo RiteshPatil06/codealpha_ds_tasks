@@ -31,9 +31,7 @@ The output of the model provides predictions for the next 30 days of Google's st
 
 This project demonstrates the application of LSTM networks for stock price prediction. The model successfully predicts stock prices for the next 30 days, providing valuable insights for financial analysis and decision-making. Feel free to explore the code and experiment with different datasets and model configurations.
 
-## Acknowledgements
 
-Special thanks to CodeAlpha for providing the internship opportunity and to Kaggle for the dataset.
 
 ---
 
