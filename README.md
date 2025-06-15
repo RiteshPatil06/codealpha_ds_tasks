@@ -1,10 +1,4 @@
-# codealpha_tasks
 
-Name : Ritesh  Patil,
-ID : CA/03/7558,
-Timeline: 25th dec - 25th Jan
-
-# Task : 
 
 
 # Stock Prediction Model using LSTM
